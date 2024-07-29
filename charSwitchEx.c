@@ -2,7 +2,7 @@
 #include<conio.h>
 void main(){
 	char ch;
-	printf("Enter a charcter : ");
+	printf("Enter  a charcter : ");
 	scanf("%c",&ch);
 	switch(ch){
 		case 'a':
