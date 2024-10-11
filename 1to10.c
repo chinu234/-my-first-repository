@@ -6,6 +6,7 @@ void main(){
 	scanf("%d", &num);
 	while(a<=10){
 		printf("%d\n",a*num);
+		
 		a++;
 	}
 }
